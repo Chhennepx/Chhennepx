@@ -46,11 +46,9 @@ If you'd like to support ongoing development, a small donation via WeChat Pay is
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 ---
